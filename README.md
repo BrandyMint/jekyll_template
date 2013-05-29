@@ -12,7 +12,7 @@ Start server at **localhost:4000**
 and refresh site files instantly:
 
 ```
-jekyll server --watch
+jekyll serve --watch
 ``` 
 
 Build site static files without running a server:
