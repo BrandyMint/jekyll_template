@@ -1,7 +1,9 @@
 jekyll_template
 ===============
 
-Jekyll template with HAML, SASS, CoffeeScript, bundler, livereload
+Jekyll template with HAML, SASS, CoffeeScript, bundler, livereload.
+
+http://jekyllrb.com/
 
 
 ```
