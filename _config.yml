@@ -1,0 +1,12 @@
+name: Jekyll template
+pygments: true
+
+# defaults
+sass:
+ syntax: sass
+ style:  compressed
+
+exclude: [Gemfile, Gemfile.lock, Guardfile, README.md, .sass, .scss, .coffee, .haml]
+
+baseurl: /
+url: http://localhost:4000
