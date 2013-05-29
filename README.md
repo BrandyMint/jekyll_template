@@ -15,14 +15,15 @@ and refresh site files instantly:
 jekyll serve --watch
 ``` 
 
+Start guard (compiles CoffeeScript, supports livereload):
+
+```
+bundle exec guard
+``` 
+
 Build site static files without running a server:
 
 ```
 jekyll build
 ``` 
 
-Start guard (compiles CoffeeScript, supports livereload):
-
-```
-bundle exec guard
-``` 
